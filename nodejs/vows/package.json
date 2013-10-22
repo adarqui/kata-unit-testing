@@ -1,0 +1,22 @@
+{
+	"name": "kata-unit-testing",
+	"description": "playing around with various test suites",
+	"version": "0.0.1",
+	"author": "Andrew Darqui (http://github.com/adarqui)",
+	"repository": {
+		"type": "git",
+		"url": "http://github.com/adarqui/kata-unit-testing.git"
+	},
+	"licenses": [
+		{
+			"type": "MIT"
+		}
+	],
+	"bugs": {
+		"url" : "http://github.com/adarqui/kata-unit-testing/issues"
+	},
+	"dependencies": {
+		"assert" : "*",
+		"vows" : "*"
+	}
+}
